@@ -22,3 +22,8 @@ Express generates:
         javascripts/
         stylesheets/
             style.css
+
+Heroku needs:
+
+    Procfile
+    package.json
